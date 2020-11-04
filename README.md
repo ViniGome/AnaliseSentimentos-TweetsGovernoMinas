@@ -1,4 +1,4 @@
-# Analise de Sentimentos usando Tweets
+# Feelings analysis using tweets
 I make this just for pratice my jupyter notebook skills.
 
 # How it works? 
